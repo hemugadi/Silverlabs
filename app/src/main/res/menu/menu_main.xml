@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.silverlabs.activity.MainActivity">
+    <item android:id="@+id/action_age"
+          android:title="@string/action_sort_by_age"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_popularity"
+          android:title="@string/action_sort_by_popularity"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_height"
+          android:title="@string/action_sort_by_height"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

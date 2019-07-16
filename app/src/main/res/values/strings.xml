@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SilverLabs</string>
+    <string name="action_sort_by_age">Sort By Age</string>
+    <string name="action_sort_by_popularity">Sort By popularity</string>
+    <string name="action_sort_by_height">Sort By Height</string>
+</resources>
